@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/b-ezawit/LeetCode/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/b-ezawit/LeetCode/tree/master/0027-remove-element) |
 | [0876-middle-of-the-linked-list](https://github.com/b-ezawit/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/b-ezawit/LeetCode/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/b-ezawit/LeetCode/tree/master/0027-remove-element) |
 | [1854-maximum-population-year](https://github.com/b-ezawit/LeetCode/tree/master/1854-maximum-population-year) |
 ## Counting
 |  |
