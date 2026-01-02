@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/b-ezawit/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/b-ezawit/LeetCode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/b-ezawit/LeetCode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/b-ezawit/LeetCode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/b-ezawit/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/b-ezawit/LeetCode/tree/master/0075-sort-colors) |
 | [0876-middle-of-the-linked-list](https://github.com/b-ezawit/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/b-ezawit/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/b-ezawit/LeetCode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/b-ezawit/LeetCode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/b-ezawit/LeetCode/tree/master/0031-next-permutation) |
 | [0064-minimum-path-sum](https://github.com/b-ezawit/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/b-ezawit/LeetCode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/b-ezawit/LeetCode/tree/master/0179-largest-number) |
