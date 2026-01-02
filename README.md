@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/b-ezawit/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/b-ezawit/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/b-ezawit/LeetCode/tree/master/0027-remove-element) |
 | [0876-middle-of-the-linked-list](https://github.com/b-ezawit/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/b-ezawit/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/b-ezawit/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/b-ezawit/LeetCode/tree/master/0027-remove-element) |
 | [0064-minimum-path-sum](https://github.com/b-ezawit/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -74,5 +76,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/b-ezawit/LeetCode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/b-ezawit/LeetCode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
