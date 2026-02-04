@@ -7,7 +7,6 @@ class Solution(object):
         if 0 not in nums:
             return 0
         maxNum = max(nums)
-        elements = [n for n in range(0,maxNum+1)]
         nums.sort()
         l,r = 0,1
         while r<len(nums):
