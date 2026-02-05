@@ -5,8 +5,20 @@ class Solution(object):
         :type chars: str
         :rtype: int
         """
+        
+
+
+# words = ["cat","bt","hat","tree"], chars = "atach"
+
+        charsCount = Counter(chars) #charsCount = {'a':2,'t':1,'c':1,'h':1}
         ans = 0
         for string in words:
-            if all(ch in chars for ch in string) and all(string.count(c) <= chars.count(c) for c in string):
+            stringCount = Counter(string)#stringCount = {'c':1,'a':1,'t':1}
+            for ch in stringCount:
+                if (ch not in charsCount) or (stringCount[ch] > charsCount[ch]):
+                    break
+            else:
                 ans += len(string)
         return ans
+
+            
