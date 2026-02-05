@@ -15,7 +15,7 @@ class Solution(object):
         for string in words:
             stringCount = Counter(string)#stringCount = {'c':1,'a':1,'t':1}
             for ch in stringCount:
-                if (ch not in charsCount) or (stringCount[ch] > charsCount[ch]):
+                if (stringCount[ch] > charsCount[ch]):
                     break
             else:
                 ans += len(string)
