@@ -5,8 +5,8 @@ class Solution(object):
         :rtype: List[int]
         """
         #brute force:
-        numsCount = Counter(nums)
-        return [k for k in numsCount if numsCount[k]==2]
+        #numsCount = Counter(nums)
+        #return [k for k in numsCount if numsCount[k]==2]
 
         #elements in nums in range: [1,n]
         #nums = [4,3,2,7,8,2,3,1]
