@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/b-ezawit/LeetCode/tree/master/1854-maximum-population-year) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/b-ezawit/LeetCode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/b-ezawit/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2553-separate-the-digits-in-an-array](https://github.com/b-ezawit/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -185,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/b-ezawit/LeetCode/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/b-ezawit/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
