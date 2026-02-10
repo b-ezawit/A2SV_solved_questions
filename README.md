@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/b-ezawit/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0229-majority-element-ii](https://github.com/b-ezawit/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/b-ezawit/LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/b-ezawit/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/b-ezawit/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/b-ezawit/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/b-ezawit/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/b-ezawit/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/b-ezawit/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/b-ezawit/LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/b-ezawit/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/b-ezawit/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/b-ezawit/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/b-ezawit/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/b-ezawit/LeetCode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/b-ezawit/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/b-ezawit/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1854-maximum-population-year](https://github.com/b-ezawit/LeetCode/tree/master/1854-maximum-population-year) |
 ## Prefix Sum
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/b-ezawit/LeetCode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/b-ezawit/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/b-ezawit/LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/b-ezawit/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/b-ezawit/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/b-ezawit/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Dynamic Programming
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/b-ezawit/LeetCode/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/b-ezawit/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Brainteaser
 |  |
 | ------- |
@@ -194,4 +199,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-sum-of-even-numbers-after-queries](https://github.com/b-ezawit/LeetCode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/b-ezawit/LeetCode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2553-separate-the-digits-in-an-array](https://github.com/b-ezawit/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/b-ezawit/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/b-ezawit/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/b-ezawit/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
