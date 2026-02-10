@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/b-ezawit/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/b-ezawit/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0229-majority-element-ii](https://github.com/b-ezawit/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/b-ezawit/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/b-ezawit/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/b-ezawit/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/b-ezawit/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/b-ezawit/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/b-ezawit/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/b-ezawit/LeetCode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/b-ezawit/LeetCode/tree/master/0242-valid-anagram) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/b-ezawit/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1108-defanging-an-ip-address](https://github.com/b-ezawit/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/b-ezawit/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/b-ezawit/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/b-ezawit/LeetCode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/b-ezawit/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/b-ezawit/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/b-ezawit/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/b-ezawit/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/b-ezawit/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
