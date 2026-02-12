@@ -4,10 +4,17 @@ class Solution(object):
         :type strs: List[str]
         :rtype: List[List[str]]
         """
-        anagram_map = defaultdict(list)
+        ans = []
+
+        hash = defaultdict(list)
 
         for s in strs:
             sorted_s = tuple(sorted(s))
-            anagram_map[sorted_s].append(s)
-        
-        return [anagram for anagram in anagram_map.values()]
+            hash[sorted_s].append(s)
+        #{'aet':['eat','ate','tea']}
+
+        for values in hash.values():
+            ans.append(values)
+
+        return ans
+
