@@ -11,10 +11,9 @@ class Solution(object):
 
         res = 0        
         for val,freq in sCount.items():
-            if val in tCount and freq > tCount[val]:
+            if freq > tCount[val]:
                 res += freq - tCount[val]
-            elif val not in tCount:
-                res += freq
+            
         
         return res
             
