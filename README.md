@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/b-ezawit/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/b-ezawit/LeetCode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2007-find-original-array-from-doubled-array](https://github.com/b-ezawit/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/b-ezawit/LeetCode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## String
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/b-ezawit/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/b-ezawit/LeetCode/tree/master/1528-shuffle-string) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/b-ezawit/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/b-ezawit/LeetCode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/b-ezawit/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/b-ezawit/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1854-maximum-population-year](https://github.com/b-ezawit/LeetCode/tree/master/1854-maximum-population-year) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/b-ezawit/LeetCode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
