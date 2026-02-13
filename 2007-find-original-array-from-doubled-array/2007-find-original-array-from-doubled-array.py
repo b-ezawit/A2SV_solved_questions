@@ -11,13 +11,8 @@ class Solution(object):
         for x in sorted(c):
             if c[x] > c[2*x]:
                 return []
-            c[2*x] -= c[x] if x else c[x]/2
+            c[2*x] -= c[x] if x else c[x] / 2
         return list(c.elements())
-
-        #[0 000 1 2 4 8]
-        #{0:4 }
-        #{0:0}
-
         
 
 
