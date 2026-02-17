@@ -9,7 +9,7 @@ class Solution(object):
                 [200,50,200],
                 [100,200,100]]
         '''
-        print([[0]*3])
+        
         rows = len(img)
         cols = len(img[0])
         res = [[0] * cols for _ in range(rows)]
