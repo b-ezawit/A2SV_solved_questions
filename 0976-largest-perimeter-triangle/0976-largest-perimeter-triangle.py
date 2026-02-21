@@ -5,9 +5,7 @@ class Solution(object):
         :rtype: int
         """
         nums.sort()
-        for i in range(len(nums)-1,-1,-1):
-            if i < 2:
-                break
+        for i in range(len(nums)-1,1,-1):
             a = nums[i]
             b = nums[i-1]
             c = nums[i-2]
