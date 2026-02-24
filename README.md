@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/b-ezawit/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2418-sort-the-people](https://github.com/b-ezawit/LeetCode/tree/master/2418-sort-the-people) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/b-ezawit/LeetCode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3527-find-the-most-common-response](https://github.com/b-ezawit/LeetCode/tree/master/3527-find-the-most-common-response) |
 ## String
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/b-ezawit/LeetCode/tree/master/2418-sort-the-people) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/b-ezawit/LeetCode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/b-ezawit/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3527-find-the-most-common-response](https://github.com/b-ezawit/LeetCode/tree/master/3527-find-the-most-common-response) |
 ## Sliding Window
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/b-ezawit/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2418-sort-the-people](https://github.com/b-ezawit/LeetCode/tree/master/2418-sort-the-people) |
 | [2553-separate-the-digits-in-an-array](https://github.com/b-ezawit/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3527-find-the-most-common-response](https://github.com/b-ezawit/LeetCode/tree/master/3527-find-the-most-common-response) |
 ## Counting
 |  |
 | ------- |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/b-ezawit/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1854-maximum-population-year](https://github.com/b-ezawit/LeetCode/tree/master/1854-maximum-population-year) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/b-ezawit/LeetCode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3527-find-the-most-common-response](https://github.com/b-ezawit/LeetCode/tree/master/3527-find-the-most-common-response) |
 ## Prefix Sum
 |  |
 | ------- |
