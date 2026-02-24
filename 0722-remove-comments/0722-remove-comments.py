@@ -4,26 +4,25 @@ class Solution(object):
         :type source: List[str]
         :rtype: List[str]
         """
-       
-        in_block = False
         ans = []
+        block_comment = False
         for line in source:
             i = 0
-            if not in_block:
-                newline = []
+            if not block_comment:
+                valid_line = []
             while i < len(line):
-                if line[i:i+2] == '/*' and not in_block:
-                    in_block = True
+                if line[i:i+2] == "/*" and not block_comment:
+                    block_comment = True
                     i += 1
-                elif line[i:i+2] == '*/' and in_block:
-                    in_block = False
+                elif block_comment and line[i:i+2] == "*/":
+                    block_comment = False
                     i += 1
-                elif not in_block and line[i:i+2] == '//':
+                elif line[i:i+2] == "//" and not block_comment:
                     break
-                elif not in_block:
-                    newline.append(line[i])
-                i += 1
-            if newline and not in_block:
-                ans.append("".join(newline))
-
+                elif not block_comment:
+                    valid_line.append(line[i])
+                i +=  1
+            if not block_comment and valid_line:
+                ans.append("".join(valid_line))
         return ans
+            
