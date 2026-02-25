@@ -1,18 +1,8 @@
-class Solution(object):
-    def majorityElement(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[int]
-        """
-
-        #brute force:
+class Solution:
+    def majorityElement(self, nums: List[int]) -> List[int]:
+        nums_count = Counter(nums)
         n = len(nums)
-        numsCount = Counter(nums) #{3:2 , 2:1}
-        targetOccurence = math.floor(n/3)
+        target_freq = math.floor(n/3)
+        return [key for key,val in nums_count.items() if val > target_freq]
 
-        ans = []
-        for ele,freq in numsCount.items():
-            if freq > targetOccurence:
-                ans.append(ele)
         
-        return ans
