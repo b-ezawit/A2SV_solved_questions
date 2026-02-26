@@ -5,32 +5,13 @@ class Solution(object):
         :type k: int
         :rtype: float
         """
-        sum = float(0)
-        for i in range(k):
-            sum += nums[i]
-
-        av = sum/k
-        max_av = av
-
-        for j in range(k, len(nums)):
-          
-            sum = float(sum - nums[j-k] + nums[j])
-            av = sum/k
-            if(av > max_av):
-                max_av = av
-            
-            
+        n = len(nums)
+        curr_sum = sum(nums[:k])
+        max_av = float(curr_sum)/k
+        for i in range(k,n):
+            curr_sum -= nums[i-k]
+            curr_sum += nums[i]
+            max_av = max(max_av , float(curr_sum)/k)
         return max_av
-
-
-
-        
-
             
-
-            
-
-
-        
-
         
