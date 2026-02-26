@@ -4,19 +4,18 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        left = 0
-        max_len = 0
-
-        sub_unique = set()
-
-        for r in range(len(s)):
-            while (s[r] in sub_unique):
-                sub_unique.remove(s[left])
-                left += 1
-
-            sub_unique.add(s[r])
-
-            max_len = max(max_len , len(sub_unique))
-        
-        return max_len
-           
+        #Approach => left=0, r=0 hmap=> key=char v=count
+        #iterate for each char, hmap[char]+=1 while hmap[char]>1: hmap[char]-=1 del if hmap[char]==0, left+=1, maxlen = max(r-l+1, maxlen)
+        hset = set()
+        maxlen = 0
+        l,r = 0,0
+        n = len(s)
+        maxlen = 0
+        while r<n:
+            while s[r] in hset:
+                hset.remove(s[l])
+                l += 1
+            hset.add(s[r])
+            maxlen = max(maxlen, r-l+1)
+            r += 1
+        return maxlen
