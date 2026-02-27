@@ -4,30 +4,20 @@ class Solution(object):
         :type height: List[int]
         :rtype: int
         """
-        left = 0
-        right = len(height)-1
-
-        maxA = 0
-
-        while left<right:
-            area = (right-left)*min(height[left],height[right])
-            maxA = max(maxA,area)
-
-            if height[left]<height[right]:
-                left += 1
-            elif height[left]>height[right]:
-                right -= 1
-
-            else:
-                if height[left+1]>height[right-1]:
-                    left += 1
-                else:
-                    right -= 1
-                    
-        return maxA
-
-
-
-
-
+        l , r = 0,len(height)-1
+        area = maxarea = min(height[l],height[r]) * r-l
         
+        while l<r:
+            
+            if height[l]>height[r]:
+                r -= 1
+            elif height[l]<height[r]:
+                l+=1
+            else:
+                if height[l+1] > height[r-1]:
+                    l += 1
+                else:
+                    r -= 1
+            area = min(height[l], height[r])*(r-l)
+            maxarea = max(area,maxarea)
+        return maxarea
