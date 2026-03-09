@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/b-ezawit/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/b-ezawit/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0933-number-of-recent-calls](https://github.com/b-ezawit/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [2671-frequency-tracker](https://github.com/b-ezawit/LeetCode/tree/master/2671-frequency-tracker) |
 ## Randomized
 |  |
@@ -383,4 +384,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/b-ezawit/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/b-ezawit/LeetCode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/b-ezawit/LeetCode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
