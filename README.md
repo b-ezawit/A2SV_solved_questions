@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/b-ezawit/LeetCode/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/b-ezawit/LeetCode/tree/master/0791-custom-sort-string) |
 | [0811-subdomain-visit-count](https://github.com/b-ezawit/LeetCode/tree/master/0811-subdomain-visit-count) |
+| [0856-score-of-parentheses](https://github.com/b-ezawit/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/b-ezawit/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/b-ezawit/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/b-ezawit/LeetCode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/b-ezawit/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/b-ezawit/LeetCode/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/b-ezawit/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1598-crawler-log-folder](https://github.com/b-ezawit/LeetCode/tree/master/1598-crawler-log-folder) |
 ## Monotonic Stack
 |  |
