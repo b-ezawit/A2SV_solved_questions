@@ -1,28 +1,31 @@
-class Solution(object):
-    def checkSubarraySum(self, nums, k):
-        """
-        :type nums: List[int]
-        :type k: int
-        :rtype: bool
-        """
-        #Approach: range= prefsum[right] - n*k = prefsum[left-1] 
+class Solution:
+    def checkSubarraySum(self, nums: List[int], k: int) -> bool:
+        '''
+        approach:
+        (sum[right] - sum[left-1]) % k = 0
+        sum[right]%k - sum[left-1]%k = 0 
 
-        #rangesum = prefsum[left-1])= prefsum[right] - n*k
-        #hmap={} key=prefsum val=count , 
-        #for right in range(len(nums)): prefsum += nums[right]: if p
-                            
-        #time = O(n^2), space=O(n)
-        hmap = {0:-1}
-        prefsum = 0
-        for r in range(len(nums)):
-            prefsum += nums[r]
-            rem = prefsum % k
+        1. sum[right]%k = sum[left-1]%k --remainder needs to be the same
+        2. lenght >= 2
 
-            if rem in hmap:
-                if (r-hmap[rem]) >= 2:
+        hmap{remainder:index}
+
+        check if curr_remainder is in hmap and lenght >=2
+        '''
+        _sum = 0
+        hmap = {0 : -1}
+        for i in range(len(nums)):
+            _sum += nums[i]
+            remainder = _sum % k
+            if remainder in hmap:
+                if i - hmap[remainder] >= 2:
                     return True
             else:
-                hmap[rem] = r
+                hmap[remainder] = i
         return False
 
-    
+            
+            
+
+
+        
