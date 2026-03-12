@@ -7,8 +7,7 @@ class Solution:
         for i in range(len(nums)):
             countRight[nums[i]] -= 1
             countLeft[nums[i]] += 1
-            if countRight[nums[i]] <= 0:
-                del countRight[nums[i]]
+  
             
             leftCount = countLeft[nums[i]]
             rightCount = countRight[nums[i]]
