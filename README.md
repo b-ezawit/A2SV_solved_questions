@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/b-ezawit/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/b-ezawit/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/b-ezawit/LeetCode/tree/master/0292-nim-game) |
+| [0342-power-of-four](https://github.com/b-ezawit/LeetCode/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/b-ezawit/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/b-ezawit/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/b-ezawit/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/b-ezawit/LeetCode/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/b-ezawit/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0342-power-of-four](https://github.com/b-ezawit/LeetCode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/b-ezawit/LeetCode/tree/master/0394-decode-string) |
 ## Hash Table
 |  |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/b-ezawit/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/b-ezawit/LeetCode/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/b-ezawit/LeetCode/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
