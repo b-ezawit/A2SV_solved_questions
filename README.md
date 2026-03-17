@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/b-ezawit/LeetCode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/b-ezawit/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/b-ezawit/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0969-pancake-sorting](https://github.com/b-ezawit/LeetCode/tree/master/0969-pancake-sorting) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/b-ezawit/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Math
 |  |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/b-ezawit/LeetCode/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/b-ezawit/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/b-ezawit/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0969-pancake-sorting](https://github.com/b-ezawit/LeetCode/tree/master/0969-pancake-sorting) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/b-ezawit/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-largest-perimeter-triangle](https://github.com/b-ezawit/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/b-ezawit/LeetCode/tree/master/0985-sum-of-even-numbers-after-queries) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/b-ezawit/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0791-custom-sort-string](https://github.com/b-ezawit/LeetCode/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/b-ezawit/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0969-pancake-sorting](https://github.com/b-ezawit/LeetCode/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/b-ezawit/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/b-ezawit/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/b-ezawit/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/b-ezawit/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0763-partition-labels](https://github.com/b-ezawit/LeetCode/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/b-ezawit/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0969-pancake-sorting](https://github.com/b-ezawit/LeetCode/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/b-ezawit/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/b-ezawit/LeetCode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/b-ezawit/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
