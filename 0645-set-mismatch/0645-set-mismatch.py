@@ -18,8 +18,6 @@ class Solution:
             l += 1
             r += 1
         
-        print("l,r while: ", ans)
-
 
         check = 1
         for i in range(len(nums)-1):
@@ -29,14 +27,12 @@ class Solution:
                 break
             if nums[i] != nums[i+1]:
                 check = nums[i]+1
-        print("for loop check append",ans)
 
         if len(ans) == 1:
             if check == nums[-1]:
                 ans.append(len(nums))
             else:
                 ans.append(check)
-        print("final leftout append", ans)
 
         return ans        
         
