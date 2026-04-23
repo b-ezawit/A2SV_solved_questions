@@ -10,13 +10,13 @@ class Solution(object):
         :type val: int
         :rtype: Optional[ListNode]
         """
-        dummy = ListNode(val)
-        dummy.next = head
-        curr = dummy
-        while curr.next :
-            if curr.next.val == val:
-                curr.next = curr.next.next
+        dummy = ListNode(val=0,next=head)
+        ans = dummy
+        while dummy:
+            while dummy.next and dummy.next.val == val:
+                    dummy.next = dummy.next.next
+            dummy=dummy.next
+        return ans.next 
 
-            else:
-                curr = curr.next
-        return dummy.next
+
+
