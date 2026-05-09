@@ -8,14 +8,14 @@ class Solution:
         def mergeCombine(leftLL,rightLL):
             insertAt = dummy  = ListNode()
             while leftLL and rightLL:
-                if leftLL.val < rightLL.val:#left smol thn right so appp left
+                if leftLL.val < rightLL.val:
                     insertAt.next = leftLL
                     leftLL = leftLL.next
                 else:
                     insertAt.next = rightLL
                     rightLL = rightLL.next
                 insertAt = insertAt.next
-            # ye pura chalgea agar len same hogi toh ye sahi h but if koi node reh jayuega so need to handle that now
+ 
             if leftLL:
                 insertAt.next = leftLL
             if rightLL:
@@ -27,16 +27,15 @@ class Solution:
             while fast and fast.next : 
                 slow = slow.next
                 fast = fast.next.next
-            return slow#return the mid node of the LL
+            return slow
         
         if not head or not head.next:
             return head
-        #mtlb keval single elem list hai whic means already sorted h
         
         left = head
         right = getMid(head)
-        temp = right.next#this holds the right arr first node 
-        right.next = None#mtlb left arr ka last node ko nul kr diya
+        temp = right.next 
+        right.next = None
         right = temp
 
         leftLL = self.sortList(left)
