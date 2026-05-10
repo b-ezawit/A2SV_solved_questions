@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/b-ezawit/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/b-ezawit/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/b-ezawit/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/b-ezawit/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/b-ezawit/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/b-ezawit/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0164-maximum-gap](https://github.com/b-ezawit/LeetCode/tree/master/0164-maximum-gap) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/b-ezawit/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/b-ezawit/LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/b-ezawit/LeetCode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/b-ezawit/LeetCode/tree/master/0078-subsets) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/b-ezawit/LeetCode/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2305-fair-distribution-of-cookies](https://github.com/b-ezawit/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/b-ezawit/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/b-ezawit/LeetCode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/b-ezawit/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/b-ezawit/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/b-ezawit/LeetCode/tree/master/0342-power-of-four) |
