@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/b-ezawit/LeetCode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2007-find-original-array-from-doubled-array](https://github.com/b-ezawit/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/b-ezawit/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2305-fair-distribution-of-cookies](https://github.com/b-ezawit/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/b-ezawit/LeetCode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2381-shifting-letters-ii](https://github.com/b-ezawit/LeetCode/tree/master/2381-shifting-letters-ii) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/b-ezawit/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/b-ezawit/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/b-ezawit/LeetCode/tree/master/0509-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/b-ezawit/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2305-fair-distribution-of-cookies](https://github.com/b-ezawit/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 ## Backtracking
 |  |
 | ------- |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/b-ezawit/LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/b-ezawit/LeetCode/tree/master/0077-combinations) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/b-ezawit/LeetCode/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
+| [2305-fair-distribution-of-cookies](https://github.com/b-ezawit/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/b-ezawit/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Matrix
 |  |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/b-ezawit/LeetCode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/b-ezawit/LeetCode/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/b-ezawit/LeetCode/tree/master/0832-flipping-an-image) |
+| [2305-fair-distribution-of-cookies](https://github.com/b-ezawit/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/b-ezawit/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Simulation
 |  |
@@ -661,4 +665,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/b-ezawit/LeetCode/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
+## Bitmask
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/b-ezawit/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
