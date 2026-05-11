@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/b-ezawit/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/b-ezawit/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/b-ezawit/LeetCode/tree/master/0290-word-pattern) |
+| [0306-additive-number](https://github.com/b-ezawit/LeetCode/tree/master/0306-additive-number) |
 | [0383-ransom-note](https://github.com/b-ezawit/LeetCode/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/b-ezawit/LeetCode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/b-ezawit/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/b-ezawit/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/b-ezawit/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/b-ezawit/LeetCode/tree/master/0090-subsets-ii) |
+| [0306-additive-number](https://github.com/b-ezawit/LeetCode/tree/master/0306-additive-number) |
 | [0491-non-decreasing-subsequences](https://github.com/b-ezawit/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/b-ezawit/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/b-ezawit/LeetCode/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
