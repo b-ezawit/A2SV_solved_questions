@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/b-ezawit/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/b-ezawit/LeetCode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/b-ezawit/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/b-ezawit/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/b-ezawit/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1528-shuffle-string](https://github.com/b-ezawit/LeetCode/tree/master/1528-shuffle-string) |
 | [1598-crawler-log-folder](https://github.com/b-ezawit/LeetCode/tree/master/1598-crawler-log-folder) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/b-ezawit/LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/b-ezawit/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/b-ezawit/LeetCode/tree/master/0078-subsets) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/b-ezawit/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/b-ezawit/LeetCode/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2305-fair-distribution-of-cookies](https://github.com/b-ezawit/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/b-ezawit/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
