@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/b-ezawit/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/b-ezawit/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/b-ezawit/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0491-non-decreasing-subsequences](https://github.com/b-ezawit/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/b-ezawit/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/b-ezawit/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/b-ezawit/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/b-ezawit/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0456-132-pattern](https://github.com/b-ezawit/LeetCode/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/b-ezawit/LeetCode/tree/master/0486-predict-the-winner) |
+| [0491-non-decreasing-subsequences](https://github.com/b-ezawit/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/b-ezawit/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/b-ezawit/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/b-ezawit/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/b-ezawit/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/b-ezawit/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/b-ezawit/LeetCode/tree/master/0090-subsets-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/b-ezawit/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/b-ezawit/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/b-ezawit/LeetCode/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2305-fair-distribution-of-cookies](https://github.com/b-ezawit/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/b-ezawit/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/b-ezawit/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/b-ezawit/LeetCode/tree/master/0342-power-of-four) |
+| [0491-non-decreasing-subsequences](https://github.com/b-ezawit/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/b-ezawit/LeetCode/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/b-ezawit/LeetCode/tree/master/0832-flipping-an-image) |
 | [2305-fair-distribution-of-cookies](https://github.com/b-ezawit/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
