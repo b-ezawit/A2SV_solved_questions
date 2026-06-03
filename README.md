@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/b-ezawit/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/b-ezawit/LeetCode/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/b-ezawit/LeetCode/tree/master/0661-image-smoother) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/b-ezawit/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0722-remove-comments](https://github.com/b-ezawit/LeetCode/tree/master/0722-remove-comments) |
 | [0739-daily-temperatures](https://github.com/b-ezawit/LeetCode/tree/master/0739-daily-temperatures) |
 | [0781-rabbits-in-forest](https://github.com/b-ezawit/LeetCode/tree/master/0781-rabbits-in-forest) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/b-ezawit/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/b-ezawit/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/b-ezawit/LeetCode/tree/master/0509-fibonacci-number) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/b-ezawit/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/b-ezawit/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2305-fair-distribution-of-cookies](https://github.com/b-ezawit/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 ## Backtracking
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/b-ezawit/LeetCode/tree/master/0179-largest-number) |
 | [0330-patching-array](https://github.com/b-ezawit/LeetCode/tree/master/0330-patching-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/b-ezawit/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/b-ezawit/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/b-ezawit/LeetCode/tree/master/0763-partition-labels) |
 | [0781-rabbits-in-forest](https://github.com/b-ezawit/LeetCode/tree/master/0781-rabbits-in-forest) |
 | [0860-lemonade-change](https://github.com/b-ezawit/LeetCode/tree/master/0860-lemonade-change) |
