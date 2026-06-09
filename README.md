@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/b-ezawit/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3527-find-the-most-common-response](https://github.com/b-ezawit/LeetCode/tree/master/3527-find-the-most-common-response) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/b-ezawit/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/b-ezawit/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Counting
 |  |
 | ------- |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-construct-smallest-number-from-di-string](https://github.com/b-ezawit/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/b-ezawit/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/b-ezawit/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/b-ezawit/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Binary Search
 |  |
 | ------- |
