@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3527-find-the-most-common-response](https://github.com/b-ezawit/LeetCode/tree/master/3527-find-the-most-common-response) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/b-ezawit/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/b-ezawit/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/b-ezawit/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Counting
 |  |
 | ------- |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/b-ezawit/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/b-ezawit/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/b-ezawit/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/b-ezawit/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/b-ezawit/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/b-ezawit/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/b-ezawit/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/b-ezawit/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -688,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/b-ezawit/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/b-ezawit/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Merge Sort
 |  |
 | ------- |
