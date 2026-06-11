@@ -1,4 +1,7 @@
 class Solution:
+    '''
+    Total Ways = (Number of Choices per individual)^(Number of Individuals)
+    '''
     def assignEdgeWeights(self, edges: List[List[int]]) -> int:
         graph  = defaultdict(list)
         for u,v in edges:
@@ -18,4 +21,5 @@ class Solution:
         MOD = (10**9)+7
 
         return (2 ** (maxDepth - 1)) % MOD
+    
     
