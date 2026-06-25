@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2780-minimum-index-of-a-valid-split](https://github.com/b-ezawit/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/b-ezawit/LeetCode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/b-ezawit/LeetCode/tree/master/3527-find-the-most-common-response) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/b-ezawit/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/b-ezawit/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/b-ezawit/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/b-ezawit/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/b-ezawit/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
 | ------- |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/b-ezawit/LeetCode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/b-ezawit/LeetCode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/b-ezawit/LeetCode/tree/master/3527-find-the-most-common-response) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/b-ezawit/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/b-ezawit/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/b-ezawit/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/b-ezawit/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/b-ezawit/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -496,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/b-ezawit/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/b-ezawit/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/b-ezawit/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/b-ezawit/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -695,12 +700,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/b-ezawit/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/b-ezawit/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/b-ezawit/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/b-ezawit/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/b-ezawit/LeetCode/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/b-ezawit/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/b-ezawit/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Ordered Set
 |  |
 | ------- |
