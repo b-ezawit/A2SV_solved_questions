@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/b-ezawit/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/b-ezawit/LeetCode/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/b-ezawit/LeetCode/tree/master/0661-image-smoother) |
+| [0704-binary-search](https://github.com/b-ezawit/LeetCode/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/b-ezawit/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0722-remove-comments](https://github.com/b-ezawit/LeetCode/tree/master/0722-remove-comments) |
 | [0739-daily-temperatures](https://github.com/b-ezawit/LeetCode/tree/master/0739-daily-temperatures) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/b-ezawit/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/b-ezawit/LeetCode/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/b-ezawit/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/b-ezawit/LeetCode/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/b-ezawit/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/b-ezawit/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/b-ezawit/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
