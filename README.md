@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/b-ezawit/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-largest-perimeter-triangle](https://github.com/b-ezawit/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/b-ezawit/LeetCode/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/b-ezawit/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1029-two-city-scheduling](https://github.com/b-ezawit/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/b-ezawit/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/b-ezawit/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/b-ezawit/LeetCode/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/b-ezawit/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/b-ezawit/LeetCode/tree/master/0704-binary-search) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/b-ezawit/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/b-ezawit/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/b-ezawit/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/b-ezawit/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
