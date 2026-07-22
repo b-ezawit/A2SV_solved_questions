@@ -82,13 +82,13 @@ Binary search on the answer. --means on the capacity or total_weight per day
                             -> the lowest possible total_weight per day that can result in shipping all the weights in <= D-days
                     -> so we need to search on the answer / capacity per-day
                     
-                    from the lowest possible weight to be shipped per-day==max(weights)
-                                        |
-                                        |
-                                        | to
-                                        |
-                                        |
-                   the hights posiible weight to be shipped per-day==sum(weights)
+                from the lowest possible weight to be shipped per-day==max(weights)
+                                    |
+                                    |
+                                    | to
+                                    |
+                                    |
+                the hights posiible weight to be shipped per-day==sum(weights)
 
 
 
