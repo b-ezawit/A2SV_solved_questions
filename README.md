@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/b-ezawit/LeetCode/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/b-ezawit/LeetCode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/b-ezawit/LeetCode/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/b-ezawit/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/b-ezawit/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0885-spiral-matrix-iii](https://github.com/b-ezawit/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [0930-binary-subarrays-with-sum](https://github.com/b-ezawit/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/b-ezawit/LeetCode/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/b-ezawit/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/b-ezawit/LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/b-ezawit/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/b-ezawit/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/b-ezawit/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/b-ezawit/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
